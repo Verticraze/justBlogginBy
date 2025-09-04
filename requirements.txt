@@ -1,1 +1,4 @@
-fastapi uvicorn[standard] transformers nltk
+fastapi 
+uvicorn[standard] 
+transformers 
+nltk
